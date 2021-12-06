@@ -6,6 +6,7 @@ You can now scan the QR code with your phone mobile, or you can also open it wit
 If everything goes well, you will be able to see movies on the app, if it doesn't appear the data, there is an error with the cloud server. This is what the front end of our app should look like:
 
 ![image](https://user-images.githubusercontent.com/77886995/144872730-c39a0e65-09c2-4c7d-a5f9-9d1fa7939872.png)
+
 This is what the app should not look like:
 
 ![image](https://user-images.githubusercontent.com/77886995/144872872-984dd559-a964-4cb5-b75e-c9426081d4cd.png)
