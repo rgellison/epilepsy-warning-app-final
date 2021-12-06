@@ -11,7 +11,7 @@ This is what the app should not look like:
 
 ![image](https://user-images.githubusercontent.com/77886995/144872872-984dd559-a964-4cb5-b75e-c9426081d4cd.png)
 
-If you are having this error go to the following link() and git clone the backend code, you can need to npm install and npm start, to run the code, however you will need to change the mongo database credentials on .env file, since know you need to connect it to your mongo database. You only need to connect the code with your mongo cluster, the data tables will be created automatically.
+If you are having this error go to the following link(https://github.com/Galleta12/backend_4) and git clone the backend code, you can need to npm install and npm start, to run the code, however you will need to change the mongo database credentials on .env file, since know you need to connect it to your mongo database. You only need to connect the code with your mongo cluster, the data tables will be created automatically.
 You can copy the following data:
 For movies: 
 {"_id":{"$oid":"618420d4c2415229c2997ec2"},"name":"Squid Game","details":"In Netflix","timeFlash":"58.91 sec","image":"https://wallpaperaccess.com/full/6998672.jpg","category":{"$oid":"61a54cdf068b503961f0b1ea"},"images":[],"dateMovie":{"$date":{"$numberLong":"1636049108114"}}}
@@ -23,6 +23,7 @@ Categories:
 {"_id":{"$oid":"6184144c7f39703bde71ab7f"},"name":"Terror","icon":"icon-Terror","image":"some url11","__v":{"$numberInt":"0"}}
 {"_id":{"$oid":"61a54cdf068b503961f0b1ea"},"name":"Series","icon":"net","image":"some url11","__v":{"$numberInt":"0"}}
 Users:
+
 
 
 
