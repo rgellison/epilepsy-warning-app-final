@@ -3,11 +3,12 @@ To start the app, you need to have installed NodeJS (https://nodejs.org/es/) to 
 Now git clone the repository and open the cloned folder with your favourite text editor. Open a terminal with the text editor or open a new terminal and cd to the cloned folder. On the terminal type npm install. This will install all the libraries dependencies.
 After that you can type npm start and it should open expo on a web browser. You can use Lan connection, however if it doesn’t work, we advise you to use tunnel connection option. 
 You can now scan the QR code with your phone mobile, or you can also open it with an IOS emulator or android emulator.
-If everything goes well, you will be able to see movies on the app, if it doesn't appear the data, there is an error with the cloud server. 
+If everything goes well, you will be able to see movies on the app, if it doesn't appear the data, there is an error with the cloud server. This is what the front end of our app should look like:
 
 ![image](https://user-images.githubusercontent.com/77886995/144872730-c39a0e65-09c2-4c7d-a5f9-9d1fa7939872.png)
 
-
+This is what the app should not look like:
+![image](https://user-images.githubusercontent.com/77886995/144872872-984dd559-a964-4cb5-b75e-c9426081d4cd.png)
 
 
 
