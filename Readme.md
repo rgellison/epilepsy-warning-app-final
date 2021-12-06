@@ -23,7 +23,10 @@ Categories:
 {"_id":{"$oid":"6184144c7f39703bde71ab7f"},"name":"Terror","icon":"icon-Terror","image":"some url11","__v":{"$numberInt":"0"}}
 {"_id":{"$oid":"61a54cdf068b503961f0b1ea"},"name":"Series","icon":"net","image":"some url11","__v":{"$numberInt":"0"}}
 Users:
+This is a sample of admin data login details. 
+{"_id":{"$oid":"61a5277a2b70bc0748ba931b"},"firstName":"Admin","secondName":"admin","email":"admin@gmail.com","passwordHash":"$2a$10$UpLhFBJDbtQdlawLC9O/IuSPsRtCJaFQDwPK4v.S5LFMwk4tHe/Ne","age":{"$numberInt":"50"},"gender":"male","address":"king street","patientHistory":"I am an admin","isAaming":true,"image":"some url11","__v":{"$numberInt":"0"}}
 
-
+This is a sample of regular user login details:
+{"_id":{"$oid":"61ae349daf717c82042cd512"},"firstName":"Lucy","secondName":"Smith","email":"lucy@gmail.com","passwordHash":"$2a$10$UpLhFBJDbtQdlawLC9O/IuSPsRtCJaFQDwPK4v.S5LFMwk4tHe/Ne","age":{"$numberInt":"50"},"gender":"female","address":"james street","patientHistory":"I am an user","isAaming":false,"image":"some url11","__v":{"$numberInt":"0"}}
 
 
