@@ -1,5 +1,5 @@
 Epilepsy Warning App
-To start the app, you need to have installed NodeJS (https://nodejs.org/es/) to check if it is installed you can type on a new terminal npm version. You also need expo, you can open a terminal and type npm-install -g expo-cli, with this expo will be installed globally.
+To start the app, you need to have installed NodeJS (https://nodejs.org/es/) to check if it is installed you can type on a new terminal npm version. You also need expo, you can open a terminal and type npm install -g expo-cli, with this expo will be installed globally.
 Now git clone the repository and open the cloned folder with your favourite text editor. Open a terminal with the text editor or open a new terminal and cd to the cloned folder. On the terminal type npm install. This will install all the libraries dependencies.
 After that you can type npm start and it should open expo on a web browser. You can use Lan connection, however if it doesn’t work, we advise you to use tunnel connection option. 
 You can now scan the QR code with your phone mobile, or you can also open it with an IOS emulator or android emulator.
